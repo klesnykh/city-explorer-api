@@ -16,15 +16,15 @@
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
-Name of feature: ________________________________
+Name of feature: lab10  
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2hrs  
 
-Start time: _____
+Start time: 1pm  
 
-Finish time: _____
+Finish time: 3pm  
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2hrs  
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
