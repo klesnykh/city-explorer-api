@@ -26,5 +26,7 @@ Finish time: 3pm
 
 Actual time needed to complete: 2hrs  
 
+![lab10](./img/Lab10.jpg)
+
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
